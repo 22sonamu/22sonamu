@@ -12,11 +12,10 @@
   
   <h3>WORK ON</h3>
   
-  <img src="https://img.shields.io/badge/elastic-%23005571.svg?&style=for-the-badge&logo=elastic&logoColor=white" />
+  
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/jquery-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white" />
-  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
+  
   
 
 
