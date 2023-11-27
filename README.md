@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=Docker&amp;logoColor=white">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=html5&logoColor=white">
   <br>
   
   <h3>WORK ON</h3>
